@@ -3,3 +3,9 @@ node_modules
 .tmp
 npm-debug.log
 .idea
+/target/
+bin/
+.settings/
+.project
+.classpath
+learning-java-8.iml
